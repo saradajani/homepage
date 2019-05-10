@@ -213,7 +213,7 @@ ul {
 
 li {
 	color: #fff;
-  background: #6601C6;
+	background-color:	#4B0082;
 	display: block;
 	float: left;
 	position: relative;
@@ -237,7 +237,7 @@ li:hover {
 
 ul li ul {
 	list-style-type:none;
-	background: #6601C6;
+	background-color:	#4B0082;
 	visibility: hidden;
   opacity: 0;
   min-width: 5rem;
